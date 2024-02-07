@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub Repository URL: [Add solution URL here](https://your-solution-url.com)
-- GitHub Page URL: [GitHub Page](https://your-live-site-url.com)
+- GitHub Repository URL: [GitHub Repository URL](https://github.com/anojumisa/3-column-preview-card)
+- GitHub Page URL: [GitHub Page](https://anojumisa.github.io/3-column-preview-card/)
 
 ## My process
 
